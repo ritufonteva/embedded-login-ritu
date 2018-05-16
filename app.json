@@ -13,4 +13,11 @@
 	  "SALESFORCE_FORGOT_PASSWORD_ENABLED":"true",
 	  "SALESFORCE_SELF_REGISTER_ENABLED":"false",
 	  }
+	
+"headers": {
+  "/**": {
+    "Content-Security-Policy": "default-src 'self'; script-src 'https://us-tdm-tso-15eb63ff4c6-1605b-1620246ad3f.force.com'; 
+	frame-ancestors 'https://us-tdm-tso-15eb63ff4c6-1605b-1620246ad3f.force.com';"
+  }
+}	
 }
