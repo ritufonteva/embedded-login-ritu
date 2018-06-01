@@ -26,8 +26,7 @@
   </head>
   
   <body>
-  	<div id="sign-in-link" style="position: absolute; top: 20px;right: 20px;"></div>
-	  <a href="https://us-tdm-tso-15eb63ff4c6-1605b-1620246ad3f.force.com/">Go to Community</a>
+  	<div id="sign-in-link" style="position: absolute; top: 20px;right: 20px;"></div>	  
     <header>
       <div class="masthead-elements-row-1">
         <div class="element-left"></div>
@@ -42,7 +41,7 @@
     </header>
     <section class="textured-section">
       <h1>Curated Coffee Components</h1>
-      
+      <a href="https://us-tdm-tso-15eb63ff4c6-1605b-1620246ad3f.force.com/">Go to Community</a>
 
       <ul class="products">
         <li>
