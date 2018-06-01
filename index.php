@@ -41,7 +41,7 @@
     </header>
     <section class="textured-section">
       <h1>Curated Coffee Components</h1>
-      <a href="https://us-tdm-tso-15eb63ff4c6-1605b-1620246ad3f.force.com/">Go to Community</a>
+      <!--a href="https://us-tdm-tso-15eb63ff4c6-1605b-1620246ad3f.force.com/">Go to Community</a-->
 
       <ul class="products">
         <li>
